@@ -41,11 +41,11 @@ Adv. Damini Yasodai &nbsp;|&nbsp; AI Legal Intelligence &nbsp;|&nbsp; Indian Law
 </div>
 
 <div style='overflow:hidden;margin-bottom:1rem;'>
-<div style='transform:translateY(115%);animation:slideUp 1.2s cubic-bezier(0.16,1,0.3,1) 0.65s forwards;font-family:Cormorant Garamond,serif;font-weight:300;font-size:clamp(1rem,2.5vw,1.4rem);color:#888;letter-spacing:0.2em;'>AI Legal Intelligence by Adv. Damini Yasodai</div>
+<div style='transform:translateY(115%);animation:slideUp 1.2s cubic-bezier(0.16,1,0.3,1) 0.65s forwards;font-family:Cormorant Garamond,serif;font-weight:300;font-size:clamp(1rem,2.5vw,1.4rem);color:#888;letter-spacing:0.2em;'>AI Legal Intelligence</div>
 </div>
 
 <div style='overflow:hidden;margin-bottom:3rem;'>
-<div style='transform:translateY(115%);animation:slideUp 1.2s cubic-bezier(0.16,1,0.3,1) 0.8s forwards;font-family:Space Mono,monospace;font-size:clamp(0.6rem,1.5vw,0.8rem);color:#444;letter-spacing:0.15em;text-transform:uppercase;'>Indian Law. Made Accessible. &nbsp;◆&nbsp; Your AI Legal Partner</div>
+<div style='transform:translateY(115%);animation:slideUp 1.2s cubic-bezier(0.16,1,0.3,1) 0.8s forwards;font-family:Space Mono,monospace;font-size:clamp(0.6rem,1.5vw,0.8rem);color:#444;letter-spacing:0.15em;text-transform:uppercase;'>Indian Law. Made Accessible. &nbsp;◆&nbsp; AI Legal Support</div>
 </div>
 
 <div style='display:inline-flex;gap:1rem;opacity:0;animation:fadeIn 1s 1.2s forwards;flex-wrap:wrap;justify-content:center;'>
@@ -170,7 +170,7 @@ Adv. Damini Yasodai &nbsp;|&nbsp; AI Legal Intelligence &nbsp;|&nbsp; Indian Law
 <div style='text-align:center;padding:4rem 2rem;'>
 <div style='font-family:Cormorant Garamond,serif;font-weight:300;font-size:clamp(2rem,6vw,4rem);color:#ffffff;margin-bottom:1rem;'>Built by a lawyer.<br>Powered by AI.</div>
 <div style='font-family:Space Mono,monospace;font-size:0.75rem;color:#888;max-width:500px;margin:0 auto 2rem;line-height:1.8;'>
-YK Legal is built by Adv. Damini Yasodai — combining deep legal knowledge with AI technology to make Indian law accessible to everyone.
+A Space combining deep legal knowledge with AI technology to make Indian law accessible to everyone. <br> Always consult a legal professional before signing contracts.
 </div>
 <div style='font-family:Space Mono,monospace;font-size:0.65rem;color:#E94E1B;text-transform:uppercase;letter-spacing:0.2em;'>Adv. Damini Yasodai — YK Legal</div>
 </div>
