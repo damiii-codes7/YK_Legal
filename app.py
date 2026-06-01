@@ -131,7 +131,17 @@ Adv. Damini Yasodai &nbsp;|&nbsp; AI Legal Intelligence &nbsp;|&nbsp; Indian Law
 <div style='font-family:Space Mono,monospace;font-size:0.65rem;color:#2D9CDB;margin-top:1.5rem;text-transform:uppercase;letter-spacing:0.1em;'>OPEN TOOL →</div>
 </div>
 </a>
-
+<a href="https://yk-governance-engine.streamlit.app" target="_blank" style='text-decoration:none;'>
+<div style='border:1px solid #181818;padding:2rem;position:relative;overflow:hidden;background:#030303;'>
+<div style='position:absolute;top:0;left:0;width:3px;height:100%;background:#F2994A;'></div>
+<div style='font-size:2rem;margin-bottom:1rem;'>🏛️</div>
+<div style='font-family:Space Mono,monospace;font-size:0.6rem;text-transform:uppercase;letter-spacing:0.2em;color:#F2994A;margin-bottom:0.5rem;'>LIVE — EU AI Act</div>
+<div style='font-family:Bebas Neue,sans-serif;font-size:1.8rem;color:#ffffff;line-height:1;margin-bottom:0.3rem;'>YK Governance</div>
+<div style='font-family:Cormorant Garamond,serif;font-size:0.9rem;color:#888;margin-bottom:1rem;font-style:italic;'>AI Governance Engine</div>
+<div style='font-family:Space Mono,monospace;font-size:0.75rem;color:#888;line-height:1.6;'>Classify your AI system against the EU AI Act — prohibited, high risk, limited risk, or minimal risk.</div>
+<div style='font-family:Space Mono,monospace;font-size:0.65rem;color:#F2994A;margin-top:1.5rem;text-transform:uppercase;letter-spacing:0.1em;'>OPEN TOOL →</div>
+</div>
+</a>
 <div style='border:1px solid #181818;padding:2rem;position:relative;overflow:hidden;background:#030303;opacity:0.4;'>
 <div style='position:absolute;top:0;left:0;width:3px;height:100%;background:#27AE60;'></div>
 <div style='font-size:2rem;margin-bottom:1rem;'>🤖</div>
