@@ -44,7 +44,7 @@ Law & Justice &nbsp;|&nbsp; AI Legal Software &nbsp;|&nbsp; Indian Laws
 <div style='transform:translateY(115%);animation:slideUp 1.2s cubic-bezier(0.16,1,0.3,1) 0.65s forwards;font-family:Cormorant Garamond,serif;font-weight:300;font-size:clamp(1rem,2.5vw,1.4rem);color:#888;letter-spacing:0.2em;'>The Results You Need</div>
 </div>
 <div style='overflow:hidden;margin-bottom:3rem;'>
-<div style='transform:translateY(115%);animation:slideUp 1.2s cubic-bezier(0.16,1,0.3,1) 0.8s forwards;font-family:Space Mono,monospace;font-size:clamp(0.6rem,1.5vw,0.8rem);color:#444;letter-spacing:0.15em;text-transform:uppercase;'>Justice begins with trust &nbsp;◆&nbsp; AI Legal Support</div>
+<div style='transform:translateY(115%);animation:slideUp 1.2s cubic-bezier(0.16,1,0.3,1) 0.8s forwards;font-family:Space Mono,monospace;font-size:clamp(0.6rem,1.5vw,0.8rem);color:#444;letter-spacing:0.15em;text-transform:uppercase;'>Justice begins with trust &nbsp;◆&nbsp; Your rights - Our mission </div>
 </div>
 
 <div style='display:inline-flex;gap:1rem;opacity:0;animation:fadeIn 1s 1.2s forwards;flex-wrap:wrap;justify-content:center;'>
@@ -197,7 +197,7 @@ Law & Justice &nbsp;|&nbsp; AI Legal Software &nbsp;|&nbsp; Indian Laws
 
 <div style='text-align:center;padding:4rem 2rem;'>
 <div style='font-family:Cormorant Garamond,serif;font-weight:300;font-size:clamp(2rem,6vw,4rem);color:#ffffff;margin-bottom:1rem;'>Built for everyone.<br>Powered by AI.</div>
-<div style='font-family:Space Mono,monospace;font-size:0.75rem;color:#888;max-width:500px;margin:0 auto 2rem;line-height:1.8;'>An AI legal intelligence platform making Indian law accessible to everyone — from students to startups to legal professionals.</div>
+<div style='font-family:Space Mono,monospace;font-size:0.75rem;color:#888;max-width:500px;margin:0 auto 2rem;line-height:1.8;'>Demystifying the Indian legal landscape for pupils, business founders, and industry professionals through an intuitive platform built for legal insight.</div>
 </div>
 
 <hr style='border-color:#181818;margin:0;'>
