@@ -44,7 +44,7 @@ Legal & Justice &nbsp;|&nbsp; AI Legal Intelligence &nbsp;|&nbsp; Indian Laws
 <div style='transform:translateY(115%);animation:slideUp 1.2s cubic-bezier(0.16,1,0.3,1) 0.65s forwards;font-family:Cormorant Garamond,serif;font-weight:300;font-size:clamp(1rem,2.5vw,1.4rem);color:#888;letter-spacing:0.2em;'>AI Legal Intelligence</div>
 </div>
 <div style='overflow:hidden;margin-bottom:3rem;'>
-<div style='transform:translateY(115%);animation:slideUp 1.2s cubic-bezier(0.16,1,0.3,1) 0.8s forwards;font-family:Space Mono,monospace;font-size:clamp(0.6rem,1.5vw,0.8rem);color:#444;letter-spacing:0.15em;text-transform:uppercase;'>Indian Law. Made Accessible. &nbsp;◆&nbsp; AI Legal Support</div>
+<div style='transform:translateY(115%);animation:slideUp 1.2s cubic-bezier(0.16,1,0.3,1) 0.8s forwards;font-family:Space Mono,monospace;font-size:clamp(0.6rem,1.5vw,0.8rem);color:#444;letter-spacing:0.15em;text-transform:uppercase;'>Indian Laws Made Easier &nbsp;◆&nbsp; AI Legal Support</div>
 </div>
 
 <div style='display:inline-flex;gap:1rem;opacity:0;animation:fadeIn 1s 1.2s forwards;flex-wrap:wrap;justify-content:center;'>
@@ -86,6 +86,8 @@ Legal & Justice &nbsp;|&nbsp; AI Legal Intelligence &nbsp;|&nbsp; Indian Laws
 <div style='font-family:Space Mono,monospace;font-size:0.6rem;text-transform:uppercase;letter-spacing:0.2em;color:#888;margin-top:0.5rem;'>Analysis Time</div>
 </div>
 <div style='padding:2rem;text-align:center;'>
+<div style='font-family:Bebas Neue,sans-serif;font-size:3.5rem;color:#ffffff;line-height:1;'>0</div>
+<div style='font-family:Space Mono,monospace;font-size:0.6rem;text-transform:uppercase;letter-spacing:0.2em;color:#888;margin-top:0.5rem;'>Fee</div>
 </div>
 </div>
 
@@ -201,7 +203,7 @@ Legal & Justice &nbsp;|&nbsp; AI Legal Intelligence &nbsp;|&nbsp; Indian Laws
 <hr style='border-color:#181818;margin:0;'>
 <div style='display:flex;justify-content:space-between;align-items:center;padding:2rem 0;flex-wrap:wrap;gap:1rem;'>
 <div style='font-family:Cormorant Garamond,serif;font-size:1.5rem;color:#ffffff;font-weight:300;letter-spacing:0.1em;'>YK LEGAL <br> Adv.  Damini Yasodai</div>
-<div style='font-family:Space Mono,monospace;font-size:0.65rem;color:#444;text-transform:uppercase;letter-spacing:0.1em;'>Indian Law Made Accessible.</div>
+<div style='font-family:Space Mono,monospace;font-size:0.65rem;color:#444;text-transform:uppercase;letter-spacing:0.1em;'>Legal-Tech Software</div>
 <div style='font-family:Space Mono,monospace;font-size:0.6rem;color:#444;text-transform:uppercase;letter-spacing:0.1em;'>AI tool — Not legal advice</div>
 </div>
 """, unsafe_allow_html=True)
